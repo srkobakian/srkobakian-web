@@ -1,0 +1,28 @@
+languageCode = "en-us"
+title = "All things Stephanie"
+baseurl = "http://srk.netlify.com/"
+theme = "aerial"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  name = "Stephanie R Kobakian"
+  about = ""
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/srkobakian"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/srkobakian"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "stephanie.kobakian@monash.edu"
