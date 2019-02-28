@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Stephanie Kobakian"
+name = "Stephanie R Kobakian"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -31,7 +31,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = []
+#user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]

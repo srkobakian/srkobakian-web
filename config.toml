@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "All things Stephanie"
+title = "Stephanie R Kobakian"
 baseurl = "http://srk.netlify.com/"
 theme = "hugo-academic"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -25,4 +25,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "stephanie.kobakian@monash.edu"
+  link = "mailto:stephanie.kobakian@monash.edu"
