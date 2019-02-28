@@ -37,12 +37,12 @@ user_groups = []
 [[education.courses]]
   course = "MPhil"
   institution = "Queensland University of Technology"
-  year = 2017
+  year = 2019
   
 [[education.courses]]
   course = "Bachelor of Commerce and Bachelor of Economics"
   institution = "Monash University"
-  year = 2019
+  year = 2017
 
 
 # Social/Academic Networking
