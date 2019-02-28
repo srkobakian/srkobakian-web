@@ -8,16 +8,15 @@ abstract = ""
 abstract_short = "Lightning talk presenting the taipan package to useR!2018." 
 event = "useR!2018"
 
-
 # Links (optional).
-url_slides = "http://srk.netlify.com/slides/taipan" url_code = "http://srk.netlify.com/slides/taipan"
+url_slides = "http://srk.netlify.com/slides/taipan"
+url_code = "http://srk.netlify.com/slides/taipan"
 
 # Does the content use math formatting?
 math = true
 
 # Does the content use source code highlighting?
 highlight = true
-
 
 image = "taipan.jpg"
 +++
