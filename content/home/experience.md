@@ -22,10 +22,8 @@ date_format = "January 2006"
   title = "Teaching Associate"
   company = "Monash University"
   date_start = "2017-01-01"
-  date_end = ""
   description = """
   Responsibilities include:
-  
   * ETC1010: Data Modelling and Computing Sem 1, 2 2018
   * ETX2250: Data Visualisation and Analytics
   """
@@ -33,11 +31,13 @@ date_format = "January 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Monash University"
+  date_start = "2016-06-01"
+  date_end = "2018-06-01"
   description = """Assistant to Professor Dianne Cook."""
-
 
 [[experience]]
   title = "Intern (Work Integrated Learning)"
   company = "Tennis Australia"
   description = """Undertake statistical research in the Game Insight Group."""
+
 +++
